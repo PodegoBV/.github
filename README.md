@@ -1,9 +1,6 @@
-# Podego
+# .github
 
-Welcome to Podego's GitHub!
+**This** is our organization's public profile repo and it is where we keep our profile's README.md [^1]
 
-Podego is all about transforming information into engaging, spoken content.
-We seamlessly convert diverse data sources into compelling narratives, spoken by state-of-the-art TTS algorithms and guaranteed to contain no hallucinations.
-Our platform ingests global news, local reports, weather updates, and even user-provided content into our system, then synthesizes natural, easy-to-follow spoken stories.
-
+[^1]: Spoken in the style of Doug Demuro
 
